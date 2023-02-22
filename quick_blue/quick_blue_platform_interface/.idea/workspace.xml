@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9665147a-4fe7-4f23-85fc-b8a4cf76cc09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/kotlin/com/example/quick_blue_example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/lib/PeripheralDetailPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/run_loop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/run_loop.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/linux/quick_blue_linux.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/platform_interface/method_channel_quick_blue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/platform_interface/models.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/platform_interface/quick_blue_platform_interface.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../macos/Classes/QuickBlueMacosPlugin.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../windows/include/quick_blue_windows/quick_blue_windows_plugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../windows/quick_blue_windows_plugin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/quick_blue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/quick_blue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../example/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/../../example/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/kotlin/com/example/quick_blue/QuickBluePlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/src/main/kotlin/com/example/quick_blue/QuickBluePlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/QuickBluePlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Classes/QuickBluePlugin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/QuickBluePlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Classes/QuickBluePlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/SwiftQuickBluePlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Classes/SwiftQuickBluePlugin.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/quick_blue.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/quick_blue.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/models.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/quick_blue.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/quick_blue.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../macos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../example/macos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../macos/quick_blue.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../../macos/quick_blue_macos.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/kotlin/com/example/quick_blue_example/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/lib/PeripheralDetailPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/run_loop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/run_loop.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_example/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/lib/quick_blue_linux.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_linux/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/macos/Classes/QuickBlueMacosPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/macos/quick_blue_macos.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_macos/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/lib/method_channel_quick_blue.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/lib/models.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/lib/quick_blue_platform_interface.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_platform_interface/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/windows/include/quick_blue_windows/quick_blue_windows_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quick_blue_windows/windows/quick_blue_windows_plugin.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2M5LqjuI9dyPBghIyBWl6xEDihr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9665147a-4fe7-4f23-85fc-b8a4cf76cc09" name="Changes" comment="" />
+      <created>1677052689984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677052689984</updated>
+    </task>
+    <servers />
+  </component>
+</project>
