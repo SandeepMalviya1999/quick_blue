@@ -152,12 +152,17 @@ class QuickBluePlugin : FlutterPlugin, MethodCallHandler, EventChannel.StreamHan
                 val service = call.argument<String>("service")!!
                 val characteristic = call.argument<String>("characteristic")!!
                 val value = call.argument<ByteArray>("value")!!
+
                 val gatt = knownGatts.find { it.device.address == deviceId }
                     ?: return result.error("IllegalArgument", "Unknown deviceId: $deviceId", null)
+
                 val writeResult = gatt.getCharacteristic(service to characteristic)?.let {
                     it.value = value
                     gatt.writeCharacteristic(it)
                 }
+
+                Log.v(TAG, "writeValue: $writeResult")
+
                 if (writeResult == true)
                     result.success(null)
                 else
