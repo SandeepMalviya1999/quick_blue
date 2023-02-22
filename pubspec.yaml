@@ -11,14 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  #  quick_blue_platform_interface: ^0.4.0-dev.0
-  quick_blue_macos: ^0.4.0-dev.0
-  quick_blue_windows: ^0.4.0-dev.0
-  #  quick_blue_linux: ^0.2.0-dev.0
   convert: ^3.0.0
   plugin_platform_interface: ^2.0.0
   logging: ^1.0.2
-  quick_blue_platform_interface: ^0.4.0-dev.0
   bluez: ^0.7.9
   collection: ^1.15.0
 
@@ -26,19 +21,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-
-flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.example.quick_blue
-        pluginClass: QuickBluePlugin
-      ios:
-        pluginClass: QuickBluePlugin
-      macos:
-        default_package: quick_blue_macos
-      windows:
-        default_package: quick_blue_windows
-      linux:
-        default_package: quick_blue_linux
