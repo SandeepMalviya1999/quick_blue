@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ebfb898-57dc-47a9-9408-dc1e44d8461e" name="Changes" comment="test change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6ebfb898-57dc-47a9-9408-dc1e44d8461e" name="Changes" comment="Stable" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677057423703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Stable">
+      <created>1677058968477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677058968477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +74,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Android Changes" />
     <MESSAGE value="test change" />
-    <option name="LAST_COMMIT_MESSAGE" value="test change" />
+    <MESSAGE value="Stable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stable" />
   </component>
 </project>
