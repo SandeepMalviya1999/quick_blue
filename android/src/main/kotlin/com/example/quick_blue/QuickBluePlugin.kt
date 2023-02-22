@@ -164,6 +164,8 @@ class QuickBluePlugin : FlutterPlugin, MethodCallHandler, EventChannel.StreamHan
 
                 Log.v(TAG, "writeValue: $writeResult")
 
+                result.success(null)
+
                 if (writeResult == true)
                     result.success(null)
                 else
