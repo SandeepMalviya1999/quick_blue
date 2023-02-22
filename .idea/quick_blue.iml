@@ -2,35 +2,9 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/build" />
-      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/example/build" />
-    </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Flutter Plugins" level="project" />
   </component>
 </module>
