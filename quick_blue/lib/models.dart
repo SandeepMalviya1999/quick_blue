@@ -20,7 +20,8 @@ class BlueScanResult {
         _manufacturerData = map['manufacturerData'],
         rssi = map['rssi'];
 
-  Map toMap() => {
+  Map toMap() =>
+      {
         'name': name,
         'deviceId': deviceId,
         'manufacturerDataHead': _manufacturerDataHead,

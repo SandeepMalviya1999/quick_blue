@@ -49,17 +49,20 @@ class _PeripheralDetailPageState extends State<PeripheralDetailPage> {
     print('_handleConnectionChange $deviceId, $state');
   }
 
-  void _handleServiceDiscovery(String deviceId, String serviceId, List<String> characteristicIds) {
+  void _handleServiceDiscovery(String deviceId, String serviceId,
+      List<String> characteristicIds) {
     print('_handleServiceDiscovery $deviceId, $serviceId, $characteristicIds');
   }
 
-  void _handleValueChange(String deviceId, String characteristicId, Uint8List value) {
-    print('_handleValueChange $deviceId, $characteristicId, ${hex.encode(value)}');
+  void _handleValueChange(String deviceId, String characteristicId,
+      Uint8List value) {
+    print('_handleValueChange $deviceId, $characteristicId, ${hex.encode(
+        value)}');
   }
 
   final serviceUUID = TextEditingController(text: WOODEMI_SERV__COMMAND);
   final characteristicUUID =
-      TextEditingController(text: WOODEMI_CHAR__COMMAND_REQUEST);
+  TextEditingController(text: WOODEMI_CHAR__COMMAND_REQUEST);
   final binaryCode = TextEditingController(
       text: hex.encode([0x01, 0x0A, 0x00, 0x00, 0x00, 0x01]));
 
@@ -103,7 +106,8 @@ class _PeripheralDetailPageState extends State<PeripheralDetailPage> {
             child: Text('setNotifiable'),
             onPressed: () {
               QuickBlue.setNotifiable(
-                  widget.deviceId, WOODEMI_SERV__COMMAND, WOODEMI_CHAR__COMMAND_RESPONSE,
+                  widget.deviceId, WOODEMI_SERV__COMMAND,
+                  WOODEMI_CHAR__COMMAND_RESPONSE,
                   BleInputProperty.indication);
             },
           ),
@@ -146,7 +150,8 @@ class _PeripheralDetailPageState extends State<PeripheralDetailPage> {
           RaisedButton(
             child: Text('requestMtu'),
             onPressed: () async {
-              var mtu = await QuickBlue.requestMtu(widget.deviceId, WOODEMI_MTU_WUART);
+              var mtu = await QuickBlue.requestMtu(
+                  widget.deviceId, WOODEMI_MTU_WUART);
               print('requestMtu $mtu');
             },
           ),

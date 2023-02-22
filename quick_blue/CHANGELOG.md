@@ -46,6 +46,7 @@
 ## [0.2.0] - 2020.11.22
 
 Add for Android/iOS/macOS/Windows
+
 - `connect` & `disconnect`
 - `onConnectionChanged`
 - `discoverServices`
