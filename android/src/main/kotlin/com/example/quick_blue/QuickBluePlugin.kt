@@ -148,6 +148,7 @@ class QuickBluePlugin : FlutterPlugin, MethodCallHandler, EventChannel.StreamHan
                     result.error("Characteristic unavailable", null, null)
             }
             "writeValue" -> {
+                Log.v(TAG, "writeValue: ANDROID START")
                 val deviceId = call.argument<String>("deviceId")!!
                 val service = call.argument<String>("service")!!
                 val characteristic = call.argument<String>("characteristic")!!
@@ -167,6 +168,8 @@ class QuickBluePlugin : FlutterPlugin, MethodCallHandler, EventChannel.StreamHan
                     result.success(null)
                 else
                     result.error("Characteristic unavailable", null, null)
+
+                Log.v(TAG, "writeValue: ANDROID END")
             }
             else -> {
                 result.notImplemented()
