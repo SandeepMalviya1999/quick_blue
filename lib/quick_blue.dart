@@ -2,9 +2,11 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:quick_blue/platform_interface/quick_blue_platform_interface.dart';
+import 'package:quick_blue/linux/quick_blue_linux.dart';
+import 'package:quick_blue/models.dart';
+import 'package:quick_blue/platform/quick_blue_platform_interface.dart';
 
-import 'models.dart';
+export 'package:quick_blue/platform/models.dart';
 
 bool _manualDartRegistrationNeeded = true;
 
@@ -21,8 +23,7 @@ QuickBluePlatform get _instance {
         Platform.isMacOS) {
       QuickBluePlatform.instance = MethodChannelQuickBlue();
     } else if (Platform.isLinux) {
-      //TODO LINUX
-      // QuickBluePlatform.instance = QuickBlueLinux();
+      QuickBluePlatform.instance = QuickBlueLinux();
     }
     _manualDartRegistrationNeeded = false;
   }

@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:bluez/bluez.dart';
 import 'package:collection/collection.dart';
 import 'package:logging/logging.dart';
-import 'package:quick_blue/platform_interface/quick_blue_platform_interface.dart';
+import 'package:quick_blue/platform/quick_blue_platform_interface.dart';
 
 class QuickBlueLinux extends QuickBluePlatform {
   bool isInitialized = false;
