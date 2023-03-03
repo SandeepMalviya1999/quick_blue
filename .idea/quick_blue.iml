@@ -6,24 +6,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build" />
       <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_linux/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_macos/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_example/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_windows/build" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/quick_blue_platform_interface/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

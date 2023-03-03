@@ -4,31 +4,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ebfb898-57dc-47a9-9408-dc1e44d8461e" name="Changes" comment="android">
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/platform/method_channel_quick_blue.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/platform/models.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/platform/quick_blue_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    <list default="true" id="6ebfb898-57dc-47a9-9408-dc1e44d8461e" name="Changes" comment="Stable Quick Blue">
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/quick_blue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quick_blue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/linux/quick_blue_linux.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linux/quick_blue_linux.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/models.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/platform_interface/method_channel_quick_blue.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/platform_interface/models.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/platform_interface/quick_blue_platform_interface.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/quick_blue.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/quick_blue.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/example/quick_blue/QuickBluePlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/kotlin/com/example/quick_blue/QuickBluePlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Classes/QuickBlueMacosPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/quick_blue_macos.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/macos/quick_blue_macos.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677060446955</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stable Quick Blue">
+      <created>1677130082974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677130082974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +133,7 @@
     <MESSAGE value="android setup" />
     <MESSAGE value="minor" />
     <MESSAGE value="gradle, kotlin update" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradle, kotlin update" />
+    <MESSAGE value="Stable Quick Blue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stable Quick Blue" />
   </component>
 </project>
